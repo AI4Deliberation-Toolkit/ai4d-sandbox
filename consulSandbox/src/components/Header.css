@@ -1,0 +1,51 @@
+/* Το γενικό στυλ για το κουμπί */
+.button {
+    background-color: #003d90;
+    color: white;
+    margin-bottom: 10px;
+    border-radius: 38px;
+    font-size: 18px;
+    font-weight: 500;
+    text-decoration: none;
+    padding: 20px 2em;
+}
+
+/* Το συγκεκριμένο στυλ για Sign-in / Sign-up */
+.signInBtn,
+.signUpBtn {
+    display: inline-flex;
+    margin-top: auto !important;
+    padding: 20px 2em !important;
+    font-size: 18px !important;
+    font-weight: 500 !important;
+    height: 50px !important;
+    border-radius: 38px !important;
+    white-space: nowrap;
+}
+
+.header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px;
+}
+
+.nav-links {
+    display: flex;
+    gap: 20px;
+}
+
+.nav-links a {
+    text-decoration: none;
+    color: black;
+    font-size: 20px;
+}
+
+.nav-links a:hover {
+    text-decoration: underline;
+}
+
+.logo {
+    width: 50px;
+    height: 50px;
+}
