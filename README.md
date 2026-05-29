@@ -1,3 +1,4 @@
+
 # Public Consultation Analysis & Moderation Plugins
 
 An AI-powered suite of plugins designed to assist administrators, moderators, and users in managing, analyzing, and synthesizing public consultation comments. The suite consists of three distinct components: **Summary**, **Information Extraction**, and **Moderation**.
@@ -26,6 +27,8 @@ The **Summary** plugin gathers all submitted comments from a consultation and or
 7. **Sub-reporting:** A brief report is generated for each cluster of comments.
 8. **Aggregation:** Individual cluster reports are merged into a single cohesive summary outlining the main conclusions of the consultation.
 
+<img width="1536" height="346" alt="image-1-1536x346" src="https://github.com/user-attachments/assets/d5bd0c79-40cc-4e78-b456-5aac46236502" />
+
 ---
 
 ## 2. Information Extraction Plugin
@@ -39,6 +42,8 @@ The **Information Extraction** plugin utilizes Artificial Intelligence to identi
 4. **Clustering:** Similar viewpoints and issues are automatically grouped together.
 5. **Reporting:** A final report is generated, presenting a structured overview of the most significant points and conclusions.
 
+<img width="1536" height="507" alt="image-2-1536x507" src="https://github.com/user-attachments/assets/7b292919-5e62-4fda-b925-39c7765d6617" />
+
 ---
 
 ## 3. Moderation Plugin
@@ -51,3 +56,5 @@ The **Moderation** plugin is an administrative tool restricted to Admins and Mod
 3. **Evaluation:** The comment is assessed and labeled as either **Clean** or **Flagged**.
 4. **Explanation Generation:** The system produces a brief explanation justifying the classification decision.
 5. **Dashboard Delivery:** The final classification and its justification are displayed in the moderation dashboard for administrator action.
+
+<img width="420" height="600" alt="image-3" src="https://github.com/user-attachments/assets/5e482713-e8c8-41d4-be29-198676e22ae8" />
